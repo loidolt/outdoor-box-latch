@@ -1,9 +1,9 @@
 ---
 published: true
 status: complete
-date: 10/19/2018
+date: 04/12/2022
 tags: 3d-printing
-description:
+description: Automatic latch for outdoor boxes specifically intended to keep lids closed in a windy area without manual intervention or locks.
 slug: outdoor-box-latch
 ---
 # Outdoor Box Latch
